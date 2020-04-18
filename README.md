@@ -1,2 +1,2 @@
 # test
-I will be git pro
+I will be git pro.
