@@ -1,0 +1,23 @@
+
+
+1. Git Clone (Project Clone)  [Clone/Pull project from remote to local repo]
+1.1 Remote and Local repo have same code [master remote -> master local]
+
+2.  Create new branch on GIT-Repo [new-branch-01 --> branch created at remote]
+2.2 Go to Local and Git Fetch 
+2.3 Switch/checkout to new-branch-01 [new-branch-01 --> branch created at local]
+
+3. Do your work on new-branch-01 local
+
+4. Git Commit [new-branch-01] {files will be added and commit messeage}
+4.1 Git Push  [new-branch-01 local -->new-branch-01 remote]
+
+5. Switch/checkout to master [Local]
+5.1 Git Pull
+5.2 Git Merge from new-branch-01 (local/remote)
+5.3 Git Push [local master to remote master]
+
+
+
+
+
